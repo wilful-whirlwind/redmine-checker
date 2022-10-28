@@ -1,0 +1,11 @@
+{
+  "redmine": {
+    "api_endpoint": "http://49.212.209.129",
+    "api_access_key": "ef067573fc6b681e52e08e78fcae0a35105f4635",
+    "project_id": "1",
+    "assigned_to_id": "1"
+  },
+  "gas": {
+    "api_endpoint": "https://script.google.com/macros/s/AKfycbzqIlpp--F5yX4FMLznWEfMXYU4781h5yh2VFophKUu7fkzqMQKYMKNxJ0zJZueZNL-2w/exec"
+  }
+}
